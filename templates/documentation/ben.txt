@@ -1,0 +1,28 @@
+****************************************************
+Consignes : 
+
+Une fois une tache terminé 
+allez dans le fichier taches.txt
+dans votre partie ecrivez le titre de la tache 
+
+ensuite chaque developpeur verrons une validation 
+pour voir si votre tache a été bien réalisé 
+
+exemple : 
+
+tache 1 ( date ) : ajoute de la page d'accueil 
+les developpeurs
+   - attache ( valide ou refuse )
+   - ben ( valide ou refuse )
+   - edouard ( valide ou refuse )
+
+ si le developpeur valide il n'y a de probleme 
+ sinon s'il refuse alors il devra dis pourquoi qu'est ce qui manque 
+
+
+****************************************************
+listes des taches à réaliser 
+
+
+
+
